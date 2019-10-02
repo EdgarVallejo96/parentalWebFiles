@@ -1,2 +1,2 @@
 # parentalWebFiles
-PHP files database transactions.
+PHP files for database transactions between AplicacionMaestra and AplicacionEsclava respositories
